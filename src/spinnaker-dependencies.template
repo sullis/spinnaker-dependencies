@@ -1,7 +1,7 @@
 versions:
 # spinnaker libs
   fiat: "0.54.1"
-  kork: "3.8.1"
+  kork: "3.9.0"
   scheduledActions: "0.39.0"
   clouddriver: "2.114.4"
   front50: "1.139.0"
@@ -21,7 +21,7 @@ versions:
   fabric8Client: "4.0.0"
   frigga: "0.18.0"
   googleApiClient: "1.28.0"
-  googleCompute: "beta-rev107-1.25.0"
+  googleCompute: "alpha-rev102-1.25.0"
   googleMonitoring: "v3-rev477-1.25.0"
   googleStorage: "v1-rev141-1.25.0"
   groovy: "{{org.codehaus.groovy:groovy}}"
